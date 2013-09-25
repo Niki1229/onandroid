@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.onandroidconf.com/</loc>
+  <lastmod>2013-08-16T01:22:50+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.onandroidconf.com/speakers.html</loc>
+  <lastmod>2013-08-15T20:59:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.onandroidconf.com/training.html</loc>
+  <lastmod>2013-08-15T20:59:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.onandroidconf.com/venue.html</loc>
+  <lastmod>2013-08-15T20:59:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.onandroidconf.com/img/droidy-nowink/droidy.html</loc>
+  <lastmod>2013-08-01T00:04:47+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.onandroidconf.com/index.html</loc>
+  <lastmod>2013-08-16T01:22:50+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
